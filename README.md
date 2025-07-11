@@ -1,0 +1,1 @@
+A BERT-based classifier for automatically labeling resumes as Software Engineer (SWE), Machine Learning Engineer (MLE), or Data Scientist (DS). Built for reproducibility and ease of use in Google Colab, this project demonstrates the full workflow from data preprocessing to model training, evaluation, and inference.
